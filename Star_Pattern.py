@@ -7,4 +7,5 @@ if z%2==1:
             print("*",end='')
         print()
 else:
-    print("Get lost or enter odd number next time")
+    print("Get lost")
+    print("Never show your face again")
